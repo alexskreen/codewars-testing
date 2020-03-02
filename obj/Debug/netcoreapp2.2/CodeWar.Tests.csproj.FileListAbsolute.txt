@@ -1,0 +1,17 @@
+/Users/Guest/Desktop/code war/CodeWar.Tests/obj/Debug/netcoreapp2.2/CodeWar.Tests.csprojAssemblyReference.cache
+/Users/Guest/Desktop/code war/CodeWar.Tests/obj/Debug/netcoreapp2.2/CodeWar.Tests.csproj.CoreCompileInputs.cache
+/Users/Guest/Desktop/code war/CodeWar.Tests/obj/Debug/netcoreapp2.2/CodeWar.Tests.AssemblyInfoInputs.cache
+/Users/Guest/Desktop/code war/CodeWar.Tests/obj/Debug/netcoreapp2.2/CodeWar.Tests.AssemblyInfo.cs
+/Users/Guest/Desktop/code war/CodeWar.Tests/bin/Debug/netcoreapp2.2/Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+/Users/Guest/Desktop/code war/CodeWar.Tests/bin/Debug/netcoreapp2.2/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+/Users/Guest/Desktop/code war/CodeWar.Tests/bin/Debug/netcoreapp2.2/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+/Users/Guest/Desktop/code war/CodeWar.Tests/bin/Debug/netcoreapp2.2/CodeWar.Tests.deps.json
+/Users/Guest/Desktop/code war/CodeWar.Tests/bin/Debug/netcoreapp2.2/CodeWar.Tests.runtimeconfig.json
+/Users/Guest/Desktop/code war/CodeWar.Tests/bin/Debug/netcoreapp2.2/CodeWar.Tests.runtimeconfig.dev.json
+/Users/Guest/Desktop/code war/CodeWar.Tests/bin/Debug/netcoreapp2.2/CodeWar.Tests.dll
+/Users/Guest/Desktop/code war/CodeWar.Tests/bin/Debug/netcoreapp2.2/CodeWar.Tests.pdb
+/Users/Guest/Desktop/code war/CodeWar.Tests/bin/Debug/netcoreapp2.2/CodeWar.dll
+/Users/Guest/Desktop/code war/CodeWar.Tests/bin/Debug/netcoreapp2.2/CodeWar.pdb
+/Users/Guest/Desktop/code war/CodeWar.Tests/obj/Debug/netcoreapp2.2/CodeWar.Tests.csproj.CopyComplete
+/Users/Guest/Desktop/code war/CodeWar.Tests/obj/Debug/netcoreapp2.2/CodeWar.Tests.dll
+/Users/Guest/Desktop/code war/CodeWar.Tests/obj/Debug/netcoreapp2.2/CodeWar.Tests.pdb
